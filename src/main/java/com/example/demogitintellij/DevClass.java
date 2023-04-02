@@ -6,6 +6,8 @@ public class DevClass {
         System.out.println("DevClass");
         //UTM adding something here...
         System.out.println("Adding code of UTM");
+        //New comments added from feature
+        System.out.println("Newline from feature1 add");
         //New comments added
          System.out.println("Newline add");
     }
